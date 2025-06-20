@@ -40,7 +40,7 @@ A simple MCP server to control Spotify playback and manage your liked songs via 
    python main.py
    ```
 
-## Integration with Claude (MCP Server)
+## Integration with Claude Desktop (MCP Server)
 
 To use this server as an MCP server with Claude, add the following entry to your Claude config file (usually located at `~/Library/Application Support/Claude/claude_desktop_config.json` on macOS):
 
