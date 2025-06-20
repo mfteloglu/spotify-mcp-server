@@ -24,8 +24,7 @@ A simple MCP server to control Spotify playback and manage your liked songs via 
 
 3. **Install dependencies:**
    ```sh
-   pip install uv
-   uv pip install -r uv.lock
+   pip install -r requirements.txt
    ```
 
 4. **Create a `.env` file:**
