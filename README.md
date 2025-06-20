@@ -61,6 +61,7 @@ To use this server as an MCP server with Claude, add the following entry to your
 ```
 
 - Replace `/ABSOLUTE/PATH/TO/PROJECT/spotify-mcp-server` with the actual path to your project
+- If command `uv` is not recognized, give the absolute path for `uv` executable (can be found with `which uv` on MacOS)
 - Make sure your environment variables are set either in the config or via a `.env` file.
 - Restart Claude after editing the config file.
 
